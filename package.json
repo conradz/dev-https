@@ -1,0 +1,22 @@
+{
+  "name": "dev-https",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "tap test.js"
+  },
+  "keywords": [],
+  "author": "Conrad Zimmerman <me@conradz.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "pem": "^1.8.1",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1",
+    "tap": "^2.1.1"
+  }
+}
