@@ -7,6 +7,9 @@
     "pretest": "standard",
     "test": "tap test.js"
   },
+  "bin": {
+    "dev-https": "./index.js"
+  },
   "keywords": [],
   "author": "Conrad Zimmerman <me@conradz.com>",
   "license": "ISC",

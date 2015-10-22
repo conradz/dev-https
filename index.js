@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 var https = require('https')
 var pem = require('pem')
 var request = require('request')
